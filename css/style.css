@@ -232,6 +232,10 @@ color: #A8A8A8;
     line-height: normal;
     margin-top: 0;
 }
+
+.my-photo {
+    border-radius: 50%;
+}
 @media screen and (max-width: 960px)  {
     body {
         padding: 20px;
@@ -279,6 +283,7 @@ color: #A8A8A8;
         }
     
     .my-photo {
-            width: 100%;
+            width: 100%; 
+            
         }
 }
